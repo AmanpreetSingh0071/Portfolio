@@ -1,0 +1,21 @@
+{
+  "name": "ai-engineer-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^4.3.1",
+    "framer-motion": "^10.12.16",
+    "vite": "^4.0.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^3.0.0"
+  },
+  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/AI-Engineer-Portfolio"
+}
