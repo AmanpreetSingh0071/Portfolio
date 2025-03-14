@@ -1,3 +1,3 @@
 export default {
-  base: "/AI-Engineer-Portfolio/",
+  base: "Portfolio/",
 };
