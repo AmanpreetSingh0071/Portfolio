@@ -4,7 +4,7 @@
 Welcome to my **AI Engineer Portfolio**! 🚀 Here, you'll find my work on **cutting-edge AI models, automation, and robotics**. My expertise spans **Machine Learning, NLP, Generative AI, and AI-driven automation**, with a focus on real-world applications in **finance, cryptography, and robotics**.
 
 ## 🔗 Portfolio Live Demo
-👉 **[View My Portfolio](https://amanpreetsingh0071.github.io/Portfolio/)** (Replace with your actual Vercel link)
+👉 **[View My Portfolio](https://amanpreetsingh0071.github.io/Portfolio/)**
 
 ---
 
